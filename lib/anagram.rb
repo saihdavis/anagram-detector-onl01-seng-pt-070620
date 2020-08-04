@@ -4,7 +4,10 @@ class Anagram
   
   def initialize(diaper)
       @diaper = diaper
-      @diaper.match(%w(diaper))
   end
+  
+  def match 
+    
+  end 
   
 end
