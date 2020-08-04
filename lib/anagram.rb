@@ -7,7 +7,7 @@ class Anagram
   end
   
   def match 
-    
+    diaper.match
   end 
   
 end
